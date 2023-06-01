@@ -1,0 +1,6 @@
+0 Alterado
+1 Ansioso
+2 Enojado
+3 Feliz
+4 Ruido de fondo
+5 Triste

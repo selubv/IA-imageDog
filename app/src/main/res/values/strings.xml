@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FOUR PAWS-UNHEVAL</string>
+
+
+    <string name="titulo">NO ES UN PERRO</string>
+    <string name="descripcion">Intente tomar una foto de nuevo y asegúrese de enfocar a un perro</string>
+
+    <color name="color_rojo">#FF0000</color>
+
+</resources>
